@@ -1,0 +1,30 @@
+public class JavaApplication8 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Scanner enter=new Scanner(System.in);
+        System.out.println("Digite un numero : ");
+        int num=enter.nextInt();
+        
+        switch(num){
+            case 1: 
+                 System.out.println("es papa");
+                 break;
+                 
+            case 2:
+                 System.out.println("es mama");
+                break;
+                
+            case 3:
+                System.out.println("es hijo");
+                break;
+                
+            default:
+                System.out.println("su opcion no es valida");
+        }
+        
+    }
+    
+}
