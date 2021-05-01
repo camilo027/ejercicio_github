@@ -14,7 +14,7 @@ public class JavaApplication8 {
                  break;
                  
             case 2:
-                 System.out.println("es mama y mamasita");
+                 System.out.println("es mama y mamasita y madrastra");
                 break;
                 
             case 3:
