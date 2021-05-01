@@ -15,11 +15,11 @@ public class JavaApplication8 {
                  break;
                  
             case 2:
-                 System.out.println("es mama");
+                 System.out.println("es mama el 12 de mayo es su dia ");
                 break;
                 
             case 3:
-                System.out.println("es hijo,sobrino, ");
+                System.out.println("es hijo, el mayor  ");
                 break;
                 
             default:
