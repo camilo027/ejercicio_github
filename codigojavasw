@@ -19,7 +19,7 @@ public class JavaApplication8 {
                 break;
                 
             case 3:
-                System.out.println("es hijo");
+                System.out.println("es hijo,sobrino, ");
                 break;
                 
             default:
