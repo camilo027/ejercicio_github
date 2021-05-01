@@ -15,7 +15,7 @@ public class JavaApplication8 {
                  break;
                  
             case 2:
-                 System.out.println("es mama, la mejor del mundo ");
+                 System.out.println("es mama, la mejor del mundo y en mayo es dia ");
                 break;
                 
             case 3:
