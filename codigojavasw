@@ -15,11 +15,11 @@ public class JavaApplication8 {
                  break;
                  
             case 2:
-                 System.out.println("es mama, la mejor del mundo y en mayo es dia ");
+                 System.out.println("es mama, la mia es la mejor ");
                 break;
                 
             case 3:
-                System.out.println("es hijo");
+                System.out.println("es hijo, y es el primogenito");
                 break;
                 
             default:
